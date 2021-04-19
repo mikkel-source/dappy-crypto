@@ -1,0 +1,34 @@
+@import "./variables";
+
+.dappy__nav{
+    height: 80px;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    &Heading {
+        grid-column: 1/2;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding-inline: 2.87em;
+        &text {
+            color: $textColor;
+            text-transform: capitalize;
+        }
+        &links {
+            text-decoration: none;
+            color: $textColor;
+            font-size: 1em;
+            font-family: $textFont;
+        }
+}
+&Socials {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 30em;
+    &icon{
+        color: $textColor;
+    }
+
+}
+}

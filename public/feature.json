@@ -1,0 +1,225 @@
+{
+    "feature": [
+        [
+            {
+                "type": "headline",
+                "headline": "Multi-currencies"
+            },
+            {
+                "type": "image",
+                "url": "./Group 19.png"
+            },
+            {
+                "type": "text",
+                "text": "receive, send and store the most popular coins, like Bitcoin, Ethereum, Litecoin, Dash and lots more."
+            }
+        ],
+        [
+            {
+                "type": "headline",
+                "headline": " free and open source"
+            },
+            {
+                "type": "image",
+                "url": "open-source.png"
+            },
+            {
+                "type": "text",
+                "text": "Fully open and transparent wallet. Our code isopen source and trusted by Blockstack Team.."
+            }
+        ],
+        [
+            {
+                "type": "headline",
+                "headline": "tokens"
+            },
+            {
+                "type": "image",
+                "url": "Group 20.png"
+            },
+            {
+                "type": "text",
+                "text": "Full support for any tokens on Ethereum network.Bitcoin tokens (Omnilayer) is coming soon."
+            }
+        ],
+        [
+            {
+                "type": "headline",
+                "headline": "exchange"
+            
+            },
+            {
+                "type" : "text",
+                "text" : "In-app exchange is supported by ShapeShift, it allows to convert coins to each other in the most intuitive and easiest way."
+            
+                
+            },
+            {
+                "type": "image",
+                "url": "Vector.png"
+            }
+
+        ]
+    ],
+    "roadmap": [
+        [
+            {
+                "type": "image",
+                "url": "Group 33.png"
+            },
+            {
+                "type": "date",
+                "text": "may 2018"
+            },
+            {
+                "type": "text",
+                "text": "Blockstack Autorisation"
+            },
+            {}
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 33.png"
+            },
+            {
+                "type": "text",
+                "text": "Decentralized storage Gaia"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "/Ellipse 3.png"
+            },
+            {
+                "type": "text",
+                "text": "BTC, ETH, ETC, LTC, BCH, BTG, DOGE, DCR, DACH"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 33.png"
+            },
+            {
+                "type": "text",
+                "text": "Support ERC20 tokens"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 33.png"
+            },
+            {
+                "type": "text",
+                "text": "Support Custom token"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "/Ellipse 3.png"
+            },
+            {
+                "type": "date",
+                "text": "june 2018"
+            },
+            {
+                "type": "text",
+                "text": "Exchange powered by ShapeShift"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 37.png"
+            },
+            {
+                "type": "date",
+                "text": "2018-2019"
+            },
+            {
+                "type": "text",
+                "text": "Add more coins: ZEC, DCR, XRP..."
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 42.png"
+            },
+            {
+                "type": "text",
+                "text": "Blockstack contact list"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "/Ellipse 3.9.png"
+            },
+            {
+                "type": "text",
+                "text": "Support token for each coins"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 42.png"
+            },
+            {
+                "type": "text",
+                "text": "Support private key in different formats"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 42.png"
+            },
+            {
+                "type": "text",
+                "text": "Multilanguage support"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "/Ellipse 3.9.png"
+            },
+            {
+                "type": "text",
+                "text": "Different UI themes"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 42.png"
+            },
+            {
+                "type": "text",
+                "text": "Ledger, Trezor integrations"
+            }
+        ],
+        [
+            {
+                "type": "image",
+                "url": "Group 42.png"
+            },
+            {
+                "type": "text",
+                "text": "In-app marketplace or DApp browser"
+            }
+        ],
+        [
+            {
+                "type": "text",
+                "text": "and lots more"
+            }
+        ]
+    ]
+}

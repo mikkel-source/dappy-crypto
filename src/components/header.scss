@@ -1,0 +1,50 @@
+@import "./variables";
+.header {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: 33.25em;
+
+}
+.header__hero {
+    grid-column: 1/2;
+    display: flex;
+    flex-direction: column;
+    padding-top: 10em;
+    padding-left: 5em;
+    padding-right: 17em;
+    font-family: $textFont;
+    &Headline {
+        text-transform: capitalize;
+        font-size: 2.25em;
+        color: $textColor;
+        font-family: $textFontbold;
+    }
+    &Subtitle {
+        color: #82899B;
+        font-size: 1em;
+        font-family: $textFontlight;
+        line-height: 2em;
+        &::first-letter {
+            text-transform: capitalize;
+        }
+     
+    }
+    &CTA {
+        height: 40px;
+        width: 215px;
+        border-radius: 50px;
+        text-transform: uppercase;
+        background-color: #315EFB;
+        color: white;
+        border: none;
+        margin-top: 4em;
+    }
+
+
+}
+.header__heroImagecontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}

@@ -1,0 +1,20 @@
+@import "./variables";
+.main {
+    padding-inline: 1em;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-template-rows: repeat(6, 220px ); 
+    gap: 1em;
+
+
+}
+.dappy__navDescription {
+    grid-column: 1/2;
+    font-family: $textFontlight;
+    font-size: 1em;
+    height: 220px;
+    padding-top: .5em;
+    background: #FAFCFF;
+    line-height: 1.5em;
+
+}

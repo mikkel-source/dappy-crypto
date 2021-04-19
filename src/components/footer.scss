@@ -1,0 +1,41 @@
+@import "./variables";
+.footer {
+    height: 22.5em;
+    padding-top: 9.7em;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    grid-template-rows: 100%;
+    padding-left: 2.7em;
+    padding-right: 8.75;
+    overflow: hidden;
+    gap: 2em;
+    &__info {
+        display: flex;
+        flex-direction: column;
+        &Headline {
+            font-family: $textFontbold;
+            font-size: 1em;
+            text-transform: uppercase;
+        }
+       }
+       &__infoEmail {
+           width: calc(208px - 70px);
+           height: 40px;
+           &::placeholder {
+               font-family: $textFontlight;
+               font-size: 14px;
+               &::first-letter {
+                   text-transform: uppercase;
+               }
+
+           }
+           &btn {
+               width: 70px;
+               height: 40px;
+               background-color: #315EFB;
+               color: #FFFFFF;
+
+           }
+       }
+    }
+    
