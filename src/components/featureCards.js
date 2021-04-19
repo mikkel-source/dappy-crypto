@@ -13,7 +13,9 @@ export default function FeautureCard({ content }) {
 
                 if (item.type === "image") {
                     return <img className="itemImage" src={item.url} alt=""/>
-                }           
+                }
+
+                return null;
             })}
         </div>
     )
