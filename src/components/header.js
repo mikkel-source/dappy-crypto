@@ -10,7 +10,7 @@ export default function Header() {
                 </h1>
                 <p className="header__heroSubtitle">the easiest way to manage multiple cruptycurrencly assets</p>
                 {/* eslint-disable-next-line */}
-                <button onClick={() => gtag("event", "select_content", { "content_type": "CTAbutton", "test-type": "A"})} className="header__heroCTA">
+                <button onClick={() => gtag("event", "select_content", { "content_type": "CTAbutton", "test-type": "B"})} className="header__heroCTA">
                    <p>create wallet</p>
 
                 </button>
