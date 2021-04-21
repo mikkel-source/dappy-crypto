@@ -14,7 +14,7 @@ export default function Main() {
                 setcontent(response.data.feature)
             })
             
-    }, [axios, setcontent, setroadmap])
+    }, [ setcontent, setroadmap])
 
     return (
     
